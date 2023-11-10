@@ -1,0 +1,23 @@
+select fee_no,count(exam_no) HRRCnt,count(refkey) ReplyCn 
+from (
+      (select /*+ use_nl(opd_basic lab) */ opd_basic.fee_no,LAB.exam_no,'' as refkey
+         from opd_basic,LAB,LAB_DTL
+        where LAB.EXAM_NO = LAB_DTL.EXAM_NO
+          AND LAB.WRITE_TIME = LAB_DTL.WRITE_TIME
+          and opd_basic.fee_no in (select fee_no from epd_his where fee_no in(select a.fee_no from reg_basic a join opd_basic b on a.opd_date = b.opd_date and a.fee_no = b.fee_no  join epd_his on a.fee_no = epd_his.fee_no and epd_his.end_date = '9999999' and epd_his.EPD_STATUS='0'  where  a.OPD_KIND='E' and a.cncl_flag='N'))
+          and opd_basic.chr_no = LAB.chr_no
+          and LAB.REPORT_DATE = opd_basic.opd_date
+          AND LAB_DTL.DANGEROUS_FLAG IN ('T','E'))
+      union all
+      (select /*+ use_nl(opd_basic lab) */ opd_basic.fee_no,'' as exam_no,wfsms2.refkey
+         from opd_basic,LAB,LAB_DTL,wfsms2
+        where LAB.EXAM_NO = LAB_DTL.EXAM_NO
+          AND LAB.WRITE_TIME = LAB_DTL.WRITE_TIME
+          and opd_basic.fee_no in (select fee_no from epd_his where fee_no in(select a.fee_no from reg_basic a join opd_basic b on a.opd_date = b.opd_date and a.fee_no = b.fee_no  join epd_his on a.fee_no = epd_his.fee_no and epd_his.end_date = '9999999' and epd_his.EPD_STATUS='0'  where  a.OPD_KIND='E' and a.cncl_flag='N'))
+          and opd_basic.chr_no = LAB.chr_no
+          and LAB.REPORT_DATE = opd_basic.opd_date
+          AND LAB_DTL.DANGEROUS_FLAG IN ('T','E')
+          and wfsms2.refkey=trim(LAB.exam_no)||'_'||trim(lab.write_time)||'_'||trim(lab.chr_no))
+     )
+ group by fee_no
+

@@ -1,0 +1,111 @@
+                                   急診病歷(病程)
+         身分證 J201838250  出生 民國 28年 12月 06予囮O 女     到院 104/06/05 05:30:00
+         字  號             日期                               日期
+         病歷號  01718052   姓名 王勉　　　　      年齡 75歲06個月   
+          
+           Subject【fever at home for 1 day
+           Object【fever at home for 1 day , no chills
+           【cough with sputum (cant spit out) , sorethroat(+)
+           【no abdominal pain , no diarrhea , no dysuria
+           【muscle soreness , no skin rash , no earache
+           【family had common cold (+) , fatigue(+)
+          
+         ◎檢驗代碼    檢驗名稱                                檢體   數量  健
+           F08011C     CBC I (8項)                             血液   1     Y     
+           F08013C     WBC DC (白血球分類計數)血液             血液   1     Y     
+           F09005C     Glucose 1 (Blood)                       血液   1     Y     
+           F09015B     Creatinine                              血液   1     Y     
+           F09026C     GPT (ALT)                               血液   1     Y     
+           F09021C     Na                                      血液   1     Y     
+           F09022C     K                                       血液   1     Y     
+           F06012C     新Urine Routine(Strip&Sediment          尿液   1     Y     
+           F14065B     Influenza A快篩(務必連B一起開)          鼻腔拭子1     Y     
+           F14066B     Influenza B快篩(務必連A一起開)          鼻腔拭子1     Y     
+         ◎放射代碼    放射名稱                                       數量  健
+           F32001C     Chest PA/AP                                    1     Y
+         ◎藥品名稱                                劑量 單位  天 途徑 總數 健 頻率  
+           Norm-Saline 500ml/bot PP瓶              1    Bot   1  IV   1    Y  STAT                
+         ◎文字醫囑
+           N/S run 60 ml / hr                                                    
+         ________________________________________________________________________________
+         時間:104/06/05 05:43:14  開單:蘇展平/主治:蘇展平
+         ◎藥品名稱                                劑量 單位  天 途徑 總數 健 頻率  
+           BROWN Mixture 120ml                     10   ml    3  PO   1    Y  QID                 
+           Medicon-A                               1    Cap   3  PO   12   Y  QID                 
+           Paramol 500mg ◎                        1    Tab   3  PO   12   Y  QID                 
+           Lorapseudo SR F.C.                      1    Tab   3  PO   6    Y  BID                 
+         ◎處置代碼    處置名稱                                數量   健
+           FSN00030    MBD                                     1     N
+           FSN00156    OPD follow up(預約門診)                 1     N
+         ◎文字醫囑
+           IV 完 MBD                                                             
+         ----------------------------------------
+         ※ 離院診斷碼  診斷名稱
+           780.6       FEVER
+           465.9       ACUTE UPPER RESPIRETORY INFECTIONS OF UNSPECIFIED SITE
+         ※離院方式:無手術
+         ----------------------------------------
+         --------------------------------------------------------------------------------
+                                               列印醫師: 侯甚光          共  3  頁 第    1   頁
+                                   急診病歷(病程)
+         身分證 J201838250  出生 民國 28年 12月 06予囮O 女     到院 104/06/05 05:30:00
+         字  號             日期                               日期
+         病歷號  01718052   姓名 王勉　　　　      年齡 75歲06個月   
+         ※時間:104/06/05 09:09:49  開單:蘇展平/主治:蘇展平醫師
+         ◎檢驗報告
+           組別      項目                            定性           定量           結果
+           -----------------------------------------------------------------------------
+           血液      WBC [4.0-11.0 x10.e3/uL]        5.04 10^3/uL   5.04 10^3/uL   
+           血液      MCV [80-99 fL]                  90.6 fL        90.6 fL        
+           血液      RDW [11.5-14.5 %]               12.5 %         12.5 %         
+           血液      MCHC [31-37 g/dL]               35.5 g/dL      35.5 g/dL      
+           血液      MCH [26-34 pg]                  32.1 pg        32.1 pg        
+           血液      PCT                             0.17 %         0.17 %         
+           血液      %EOS [0-7 %]                    0.5 %          0.5 %          
+           血液      %MONO [2.0-10.0 %]              11.8 %         11.8 %         
+           血液      HGB [12-18 g/dL]                12.9 g/dL      12.9 g/dL      
+           血液      RDW-SD                          39.8 fL        39.8 fL        
+           血液      %NEUT [40-74 %]                 73.6 %         73.6 %         
+           血液      MPV [7.2-11.1 fL]               8.50 fL        8.50 fL        
+           血液      RBC [4.2-6.1 x10.e6/uL]         4.02 10^6/uL   4.02 10^6/uL   
+           血液      PLT [130-400 x10.e3/uL]         194 x10^3 /uL  194 x10^3 /uL  
+           血液      HCT [37-52 %]                   36.5 %         36.5 %         L
+           血液      %LYM [19-48 %]                  13.6 %         13.6 %         L
+           血液      PDW                             17.0 fL        17.0 fL        
+           血液      %BASO [0-1.5 %]                 0.5 %          0.5 %          
+           尿液      Bacteria                        - /HPF         - /HPF         
+           尿液      Crystal                         - /HPF         - /HPF         
+           尿液      Cast                            - /LPF         - /LPF         
+           尿液      Turbidity                       Clear          Clear          
+           尿液      Ketone                          -              -              
+           尿液      SP.Gr.                          1.008          1.008          
+           尿液      Epithelial cell                 2-5 /HPF       2-5 /HPF       
+           尿液      WBC                             0-2 /HPF       0-2 /HPF       
+           尿液      WBC                             3.10 /ul       3.10 /ul       
+           尿液      Bilirubin                       <0.5 mg/dl     <0.5 mg/dl     
+           尿液      Nitrite                         -              -              
+           尿液      RBC                             2-5 /HPF       2-5 /HPF       
+           尿液      Blood                           <0.03 mg/dl    <0.03 mg/dl    
+           尿液      PH                              7.0            7.0            
+           尿液      Urobilinogen                    <1.5 mg/dl     <1.5 mg/dl     
+           尿液      RBC                             13.90 /ul      13.90 /ul      
+           尿液      Color                           LightYellow    LightYellow    
+           尿液      LEU                             -              -              
+           尿液      Glucose                         <30 mg/dl      <30 mg/dl      
+           尿液      Epithelial cell                 13.50 /ul      13.50 /ul      
+           尿液      Protein                         <10 mg/dl      <10 mg/dl      
+           急/等件生化Na (血液)[135-148 mEq/L]        129 mEq/L      129 mEq/L      L
+                                               列印醫師: 侯甚光          共  3  頁 第    2   頁
+                                   急診病歷(病程)
+         身分證 J201838250  出生 民國 28年 12月 06予囮O 女     到院 104/06/05 05:30:00
+         字  號             日期                               日期
+         病歷號  01718052   姓名 王勉　　　　      年齡 75歲06個月   
+           急/等件生化Influenza B                     Negative       Negative       
+           急/等件生化K (血液)[3.5-5.3 mEq/L]         3.4 mEq/L      3.4 mEq/L      L
+           急/等件生化Influenza A                     Negative       Negative       
+           急/等件生化GPT (血液) [0-40 IU/L]          52 U/L         52 U/L         H
+           急/等件生化eGFR                            104 mL/min/1.73M2104 mL/min/1.73M2
+           急/等件生化Creatinine(血)[0.5-1.3 mg/dl]   0.6 mg/dl      0.6 mg/dl      
+           急/等件生化Glucose(血液)1 [70-110 mg/dl]   133 mg/dl      133 mg/dl      H
+                                                                         醫師簽章:______________
+                                               列印醫師: 侯甚光          共  3  頁 第    3   頁

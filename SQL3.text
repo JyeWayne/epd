@@ -1,0 +1,1 @@
+select * from er_status where status='9' and CNCL_FLAG='N' and Fee_no in (select a.fee_no from reg_basic a join opd_basic b on a.opd_date = b.opd_date and a.fee_no = b.fee_no  join epd_his on a.fee_no = epd_his.fee_no and epd_his.end_date = '9999999' and epd_his.EPD_STATUS='0'  where  a.OPD_KIND='E' and a.cncl_flag='N')

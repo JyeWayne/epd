@@ -1,0 +1,296 @@
+                                   急 診 病 歷 
+     身分證P122967169   出生民國 98年 01月 01日  性別男     到院102/08/19 14:41:00
+     字  號             日期                                日期
+     病歷號 00000033    姓名資訊室=測試          年齡 06歲 09個月
+    --------------------------------------------------------------------------------
+    病歷首頁1   時間:104/10/05 18:51:22   醫師:急診科醫師
+    --------------------------------------------------------------------------------
+    ◎Chief Complaint:
+            CHEST PAIN SINCE cold sweating (-), radiation(-), dyspnea(-), vomiting(
+            -) CHEST PAIN SINCE cold sweating (-), radiation(-), dyspnea(-), 
+            vomiting(-) 測試 不結帳
+    ◎Present Illness:
+    ◎Past History:
+    ◎Allergy History:
+            藥品名：Gentamycin_Gentamicin Oph soln's 15mg/5ml/bot 見大黴素點眼液 _ 
+            劉欣怡 藥品名：Penicillin G sodium_Penicillin G 300萬 (芐基素黴素納)_劉
+            欣怡 藥品名：Diclofenac Na_VOREN INJ.75mg/3ml/Amp_孫國倫 藥品名：P
+            iperacillin/tazobactam_Tapimycin 4.5g_孫國倫 藥品名：Phenytoin_
+            Dilantin 100mg_孫國倫
+      
+    ◎Medication History:
+    ◎Physical Examination:
+            CLEAR CONSCIOUSNESS;HEENT： CONJUNCTIVA, NOT ANEMIA; SCLERA： NOT 
+            ICTERIC; THROAT：NOT INJECTION;NECK： SUPPLE, JVE(-), LAP (-); CHEST：B
+            S CLEAR, NO WHEEZING. RALES(+);HEART： RHB, NO MURMUR; ABDOMEN： SOFT, 
+            NO TENDERNESS;EXTREMITY： NO EDEMA CLEAR CONSCIOUSNESS;HEENT： 
+            CONJUNCTIVA, NOT ANEMIA; SCLERA： NOT ICTERIC; THROAT：NOT INJECTION;
+            NECK： SUPPLE, JVE(-), LAP (-); CHEST：BS CLEAR, NO WHEEZING. RALES(+);
+            HEART： RHB, NO MURMUR; ABDOMEN： SOFT, NO TENDERNESS;EXTREMITY： NO 
+            EDEMA 測試 不結帳
+    ◎Trauma Sheet:
+    ◎Impression :
+            250.6_DIABETES WITH NEUROLOGICAL MANIFESTATIONS 243_CONGENITAL 
+            HYPOTHYROIDISM
+      AMI
+            測試 不結帳
+    ◎Plan(s):
+            1.Keep hemodynamic stable 2.PAIN CONTROL 3. ACTIVATE AMI TEAM 1.Keep 
+            hemodynamic stable 2.PAIN CONTROL 測試 不結帳
+    --------------------------------------------------------------------------------
+        急診病程_________________________________________________________________
+    --------------------------------------------------------------------------------
+     
+      Subject【CHEST PAIN SINCE
+      【cold sweating (-), radiation(-), dyspnea(-), vomiting(-)
+      Object【CLEAR CONSCIOUSNESS;HEENT： CONJUNCTIVA, NOT ANEMIA;
+      【SCLERA：
+      【NOT ICTERIC; THROAT：NOT INJECTION;NECK： SUPPLE, JVE(-),
+      【LAP
+      【(-); CHEST：BS CLEAR, NO WHEEZING. RALES(+);HEART： RHB,
+      【NO
+      【MURMUR; ABDOMEN： SOFT, NO TENDERNESS;EXTREMITY： NO EDEMA
+      Plan【1.Keep hemodynamic stable 2.PAIN CONTROL 3. ACTIVATE AMI
+      【TEAM
+      Assessment【AMI
+     
+    ◎診斷碼      診斷名稱
+      410         ACUTE MYOCARDIAL INFARCTION
+      786.5       CHEST PAIN
+     
+    ◎檢驗代碼    檢驗名稱                                檢體   數量  健
+      F09022C     K                                       血液   1     Y     
+      F09005C     Glucose 1 (Blood)                       血液   1     Y     
+      F09064B     Lipase                                  血液   1     Y     
+      F09071B     CKMB                                    血液   1     Y     
+      F08011C     CBC I (8項)                             血液   1     Y     
+      F08013C     WBC DC (白血球分類計數)血液             血液   1     Y     
+      F09032B     CPK                                     血液   1     Y     
+      F09015B     Creatinine                              血液   1     Y     
+      F09021C     Na                                      血液   1     Y     
+      F08026B     Prothrombin time血液                    血液   1     Y     
+      F09026C     GPT (ALT)                               血液   1     Y     
+      F09061Z     Troponin-T(hs)                          血液   1     Y     
+      F08036A     APTT血液                                血液   1     Y     
+    ◎放射代碼    放射名稱                                       數量  健
+      F32001C     Chest(AP)Portable                              1     Y
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Plavix 75mg                             8    Tab   1  PO   8    Y  STAT                
+      MORPHINE INJ.★10mg/ml/Amp              0.3  Amp   1  IV   1    Y  STAT                
+      Aspirin 100mg                           3    Tab   1  PO   3    Y  STAT                
+      信東250ml Vitagen 5% 玻璃瓶(D5W)美達研  1    Bot   1  IV   1    Y  STAT                
+      Isoket 0.1% (10mg/10ml/Amp)             5    Amp   1  IV   5    Y  STAT                
+      說明:5 amp in d5w 250 ml with 3 ml/hr
+      Norm-Saline 500ml/bot                   1    Bot   1  IV   1    Y  STAT                
+      Nitrostat(NTG) 0.6mg                    1    Tab   1  SL   1    Y  STAT                
+    ◎處置代碼    處置名稱                                數量   健
+      F18001C     心電圖（EKG）                           1     Y
+    ◎文字醫囑
+      O2 3L/MINUTE WITH NASAL CANNULA                                       
+    ________________________________________________________________________________
+    時間:102/08/19 14:48:54  開單:李建興/主治:李建興
+    ◎檢驗代碼    檢驗名稱                                檢體   數量  健
+      F08011C     CBC I (8項)                             血液   1     Y     
+      F11001C     Blood grouping血液                      血液   1     Y     
+      F09005C     Glucose 1 (Blood)                       血液   1     Y     
+      F09025C     GOT (AST)                               血液   1     Y     
+      F09021C     Na                                      血液   1     Y     
+      F09022C     K                                       血液   1     Y     
+      F08036A     APTT血液                                血液   1     Y     
+      F11003C     Rh type血液                             血液   1     Y     
+      F08013C     WBC DC (白血球分類計數)血液             血液   1     Y     
+      F08026B     Prothrombin time血液                    血液   1     Y     
+      F09071B     CKMB                                    血液   1     Y     
+      F09032B     CPK                                     血液   1     Y     
+      F09015B     Creatinine                              血液   1     Y     
+    ◎放射代碼    放射名稱                                       數量  健
+      F32002C     Chest(AP)Portable                              1     Y
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Norm-Saline 500ml/bot                   1    Bot   1  IV   1    Y  STAT                
+    ◎文字醫囑
+      102年08月19日14時50分22秒 啟動Trauma小組                              
+    ________________________________________________________________________________
+    時間:102/08/19 14:50:47  開單:高偉峰/主治:李建興
+     
+      Subject【CHEST PAIN SINCE
+      【cold sweating (-), radiation(-), dyspnea(-), vomiting(-)
+      Object【CLEAR CONSCIOUSNESS;HEENT： CONJUNCTIVA, NOT ANEMIA;
+      【SCLERA：
+      【NOT ICTERIC; THROAT：NOT INJECTION;NECK： SUPPLE, JVE(-),
+      【LAP
+      【(-); CHEST：BS CLEAR, NO WHEEZING. RALES(+);HEART： RHB,
+      【NO
+      【MURMUR; ABDOMEN： SOFT, NO TENDERNESS;EXTREMITY： NO EDEMA
+      Plan【1.Keep hemodynamic stable 2.PAIN CONTROL
+     
+    ◎檢驗代碼    檢驗名稱                                檢體   數量  健
+      F08011C     CBC I (8項)                             血液   1     Y     
+      F08013C     WBC DC (白血球分類計數)血液             血液   1     Y     
+      F09032B     CPK                                     血液   1     Y     
+      F09015B     Creatinine                              血液   1     Y     
+      F09026C     GPT (ALT)                               血液   1     Y     
+      F09005C     Glucose 1 (Blood)                       血液   1     Y     
+      F09022C     K                                       血液   1     Y     
+      F09021C     Na                                      血液   1     Y     
+      F08026B     Prothrombin time血液                    血液   1     Y     
+      F08036A     APTT血液                                血液   1     Y     
+      F09061Z     Troponin-T(hs)                          血液   1     Y     
+      F09071B     CKMB                                    血液   1     Y     
+      F09064B     Lipase                                  血液   1     Y     
+    ◎放射代碼    放射名稱                                       數量  健
+      F32002C     Chest PA/AP                                    1     Y
+    ◎處置代碼    處置名稱                                數量   健
+      F18001C     心電圖（EKG）                           1     Y
+    ◎衛材名稱                                                    數量  健
+      塑膠空針 1CC*27G(批價用)                                    1     Y
+      塑膠空針 5CC(批價用)                                        1     Y
+      塑膠空針 5CC(批價用)                                        1     Y
+      塑膠空針 5CC(批價用)                                        1     Y
+      塑膠空針 1CC*27G(批價用)                                    1     Y
+    ◎文字醫囑
+      O2 3L/MINUTE WITH NASAL CANNULA                                       
+    ________________________________________________________________________________
+    時間:102/08/19 15:19:01  開單:謝屈平/主治:李建興
+     
+      Subject【測試 不結帳
+      Object【測試 不結帳
+      Plan【測試 不結帳
+      Assessment【測試 不結帳
+    ________________________________________________________________________________
+    時間:103/04/17 16:34:57  開單:謝屈平/主治:李建興
+     
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Salagen 5mg                             1    Tab   1  PO   3    Y  TID                 
+    ________________________________________________________________________________
+    時間:103/04/17 16:43:12  開單:侯甚光/主治:李建興
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Levemir ★＃ 300 Units/3ml/pen          1    Unit  1  SC   1    Y  ASORDER             
+    ________________________________________________________________________________
+    時間:104/07/03 15:08:13  開單:侯甚光/主治:李建興
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Levemir ★＃ 300 Units/3ml/pen          1    Unit  1  SC   1    Y  ASORDER             
+    ________________________________________________________________________________
+    時間:104/07/03 16:02:50  開單:急診科醫師/主治:李建興
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Apresoline 10mg                         1    Tab   1  PO   1    Y  STAT                
+    ◎文字醫囑
+      test                                                                  
+    ________________________________________________________________________________
+    時間:104/07/25 11:27:44  開單:李山任/主治:李建興
+    ◎文字醫囑
+      test                                                                  
+    ________________________________________________________________________________
+    時間:104/07/25 11:40:24  開單:侯甚光/主治:李建興
+    ◎處置代碼    處置名稱                                數量   健
+      F39004C     點滴注射（大量ＩＶ）                    1     Y
+    ________________________________________________________________________________
+    時間:104/07/27 16:05:54  開單:急診科醫師/主治:李建興
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+    DC Actein 200mg                            1    Pk    1  PO   3    Y  TID                 
+    DC Ativan 0.5mg                            1    Tab   1  PO   1    Y  STAT                
+    ________________________________________________________________________________
+    時間:104/07/29 18:19:24  開單:侯甚光/主治:李建興
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+    DC Actein 200mg                            1    Pk    1  PO   3    Y  TID                 
+    ________________________________________________________________________________
+    時間:104/08/04 13:57:39  開單:急診科醫師/主治:陳瑞杰
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Cabudan 25mg                            1    Tab   1  PO   3    Y  TID AC              
+      Actos 30mg                              1    Tab   1  PO   1    Y  STAT                
+    ________________________________________________________________________________
+    時間:104/08/13 09:53:54  開單:急診科醫師/主治:陳瑞杰
+    ◎處置代碼    處置名稱                                數量   健
+      F39004C     點滴注射（大量ＩＶ）                    1     Y
+      F47014C     留置導尿 URINE INDWELLING               1     Y
+                  CATHETERIZATION                         
+    ________________________________________________________________________________
+    時間:104/08/13 09:56:26  開單:急診科醫師/主治:陳瑞杰
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Takepron OD Tab 30mg                    1    Tab   1  PO   1    Y  STAT                
+      Takepron OD Tab 30mg                    1    Tab   1  PO   4    Y  Q6H                 
+    ________________________________________________________________________________
+    時間:104/08/17 11:52:55  開單:急診科醫師/主治:陳瑞杰
+    ◎處置代碼    處置名稱                                數量   健
+      F39004C     點滴注射（大量ＩＶ）                    1     Y
+    ________________________________________________________________________________
+    時間:104/08/17 17:46:53  開單:急診科醫師/主治:陳瑞杰
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Peace                                   1    Tab   2  PO   8    Y  QID                 
+    ________________________________________________________________________________
+    時間:104/08/27 16:19:40  開單:急診科醫師/主治:陳瑞杰
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Acetazolamide 250mg                     1    Tab   1  PO   1    Y  STAT                
+    ________________________________________________________________________________
+    時間:104/08/28 11:09:52  開單:急診科醫師/主治:陳瑞杰
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Tamso SR 0.2mg                          1    Cap   1  PO   1    Y  STAT                
+    ________________________________________________________________________________
+    時間:104/08/28 11:22:42  開單:急診科醫師/主治:陳瑞杰
+    ◎處置代碼    處置名稱                                數量   健
+    DC F39004C     點滴注射（大量ＩＶ）                    1     Y
+      F47013C     一般導尿 URINE CATHETERIZATION          1     Y
+    ________________________________________________________________________________
+    時間:104/08/28 15:16:30  開單:高治圻/主治:陳瑞杰
+    ◎處置代碼    處置名稱                                數量   健
+      F39004C     點滴注射（大量ＩＶ）                    1     Y
+      F399003     皮下肌肉注射                            1     H
+      F399004     小量ＩＶ                                1     Y
+    ________________________________________________________________________________
+    時間:104/09/02 12:10:33  開單:急診科醫師/主治:急診科醫師
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Livial tab                              1    Tab   1  PO   1    N  QD                  
+    ________________________________________________________________________________
+    時間:104/09/16 11:18:44  開單:急診科醫師/主治:急診科醫師
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Livial tab                              1    Tab   2  PO   1    N  QD                  
+    ________________________________________________________________________________
+    時間:104/09/16 11:40:06  開單:高治圻/主治:急診科醫師
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Abraxane★◎＃100mg                     1    mg    1  CHEM 1    N  STAT                
+    ◎衛材名稱                                                    數量  健
+      塑膠空針lock 30CC(50支/盒)-芳林                             1     Y
+    ________________________________________________________________________________
+    時間:104/09/18 09:46:22  開單:急診科醫師/主治:急診科醫師
+     
+    ◎診斷碼      診斷名稱
+      250.6       DIABETES WITH NEUROLOGICAL MANIFESTATIONS
+    ________________________________________________________________________________
+    時間:104/10/02 17:45:24  開單:急診科醫師/主治:急診科醫師
+    ◎診斷碼      診斷名稱
+      243         CONGENITAL HYPOTHYROIDISM
+    ________________________________________________________________________________
+    時間:104/10/02 20:16:44  開單:急診科醫師/主治:急診科醫師
+     
+      Subject【CHEST PAIN SINCE
+      【cold sweating (-), radiation(-), dyspnea(-), vomiting(-)
+      【CHEST PAIN SINCE
+      【cold sweating (-), radiation(-), dyspnea(-), vomiting(-)
+      【測試 不結帳
+      【CHEST PAIN SINCE
+      【cold sweating (-), radiation(-), dyspnea(-), vomiting(-)
+      【CHEST PAIN SINCE
+      【cold sweating (-), radiation(-), dyspnea(-), vomiting(-)
+      【測試 不結帳
+      Plan【1.Keep hemodynamic stable 2.PAIN CONTROL 3. ACTIVATE AMI
+      【TEAM
+      Assessment【AMI
+      【測試 不結帳
+      【AMI
+      【測試 不結帳
+    ________________________________________________________________________________
+    時間:104/10/05 18:49:19  開單:急診科醫師/主治:急診科醫師
+      Subject【r
+      Object【r
+      Assessment【r
+    ----------------------------------------
+    ※離院診斷碼  診斷名稱
+      410         ACUTE MYOCARDIAL INFARCTION
+      786.5       CHEST PAIN
+      522.4       ACUTE APICAL PERIODONTITIS OF PULPAL ORIGIN
+      250         DIABETES MELLITUS
+      522         DISEASES OF PULP AND PERIAPICAL TISSUES
+    ※離院方式 :症狀改善
+    ----------------------------------------
+    --------------------------------------------------------------------------------
+    ※時間:104/10/06 11:15:00 開單:急診科醫師/主治:急診科醫師醫師
+                                                     列印醫師 : 急診科醫師

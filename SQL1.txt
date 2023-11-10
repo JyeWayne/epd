@@ -1,0 +1,27 @@
+select Fee_no,
+sum(decode(so_flag,'M',1,0)) as mord,
+sum(decode(so_flag,'M',decode(nvl(nus_oper,'0'),'0',0,1),0)) as Mnus,
+sum(decode(so_flag,'M',decode(conf_date,'Y',1,0),0)) as Mconf,
+sum(decode(so_flag,'C',1,0)) as Cord,
+sum(decode(so_flag,'C',decode(nvl(nus_oper,'0'),'0',0,1),0)) as Cnus, 
+sum(decode(so_flag,'C',decode(conf_date,'Y',1,0),0)) as Cconf, 
+sum(decode(so_flag,'L',1,0)) as Lord, 
+sum(decode(so_flag,'L',decode(nvl(nus_oper,'0'),'0',0,1),0)) as Lnus,
+sum(decode(so_flag,'L',decode(order_status,'Y',1,0),0)) as Lconf,
+sum(decode(so_flag,'T',1,0)) as Tord,
+sum(decode(so_flag,'T',decode(nvl(nus_oper,'0'),'0',0,1),0)) as Tnus,
+sum(decode(so_flag,'T',decode(conf_date,'Y',1,0),0)) as Tconf,
+sum(decode(decode(order_type,'X1','X','X4','X',So_flag),'X',1,0)) as Xord,
+sum(decode(decode(order_type,'X1','X','X4','X',So_flag),'X',decode(nvl(nus_oper,'0'),'0',0,1),0)) Xnus,
+sum(decode(decode(order_type,'X1','X','X4','X',So_flag),'X',decode(order_status,'Y',1,0),0)) Xconf, 
+sum(decode(decode(order_type,'X3','CT','X2','MRI',So_flag),'MRI',1,0)) as MRIord, 
+sum(decode(decode(order_type,'X3','CT','X2','MRI',So_flag),'MRI',decode(nvl(nus_oper,'0'),'0',0,1),0)) MRInus,
+sum(decode(decode(order_type,'X3','CT','X2','MRI',So_flag),'MRI',decode(order_status,'Y',1,0),0)) as MRIord,
+sum(decode(decode(order_type,'X3','CT','X2','MRI',So_flag),'CT',1,0)) as CTord,
+sum(decode(decode(order_type,'X3','CT','X2','MRI',So_flag),'CT',decode(nvl(nus_oper,'0'),'0',0,1),0)) CTnus,
+sum(decode(decode(order_type,'X3','CT','X2','MRI',So_flag),'CT',decode(order_status,'Y',1,0),0)) as CTord
+ from  epd_all_order
+ Where Fee_no in (select a.fee_no from reg_basic a join opd_basic b on a.opd_date = b.opd_date and a.fee_no = b.fee_no  join epd_his on a.fee_no = epd_his.fee_no and epd_his.end_date ='1040715' where  a.OPD_KIND='E' and a.cncl_flag='N')
+  AND DEL_FLAG='N'
+  and order_date between (select opd_date from opd_basic where fee_no=epd_all_order.fee_no and Rownum=1) and '1040716'
+ group by Fee_no

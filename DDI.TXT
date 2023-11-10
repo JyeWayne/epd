@@ -1,0 +1,6 @@
+SELECT A.FEE_desc as aa,b.FEE_desc as bb,D.* FROM DDI_BASIC D,OrderItem_basic a,OrderItem_basic b 
+ WHERE MED_CODE1 IN ('''IABIT50'',''OBOK''') 
+   AND MED_CODE2 IN ('''IABIT50'',''OBOK''') 
+   AND D.MED_CODE1 = A.Fee_code
+   AND D.MED_CODE2 = B.Fee_code
+   AND A.ORDER_TYPE='M' and B.ORDER_TYPE='M'

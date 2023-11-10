@@ -1,0 +1,35 @@
+                                   急 診 病 歷 (病 程 )
+         身分證 A100059415   出生民國 39年 04月 05日  性別男     到院104/07/06 09:01:00
+         字  號              日期                                日期
+         病歷號  03035685    姓名陳遠鄉　　　         年齡65歲 03個月 
+          
+         ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+           Paramol 500mg ◎                        1    Tab   3  PO   9    Y  TID                 
+           Solaxin 200mg                           1    Tab   3  PO   9    Y  TID                 
+         ◎處置代碼    處置名稱                                數量   健
+           FSN00030    MBD                                     1     N
+           FSN00156    OPD follow up(預約門診)                 1     N
+         ◎衛材名稱                                                    數量  健
+           三角巾                                                      1     N
+         ◎文字醫囑
+           on sling of left shoulder                                             
+         ________________________________________________________________________________
+         時間:104/07/06 09:12:17  開單:謝坤益/主治:謝坤益
+          
+           Subject【left shoulder and arm progressive pain when movement in
+           【recent 2 days
+           Object【moving heavy things recently, hx of ESRD s/o HD over right
+           【forearm
+           Plan【oral medication
+          
+         ◎診斷碼      診斷名稱
+           848         OTHER AND ILL-DEFINED SPRAINS AND STRAINS
+         ----------------------------------------
+         ※離院診斷碼  診斷名稱
+           848         OTHER AND ILL-DEFINED SPRAINS AND STRAINS
+         ※離院方式 :無手術
+         ----------------------------------------
+         --------------------------------------------------------------------------------
+         ※時間:104/07/06 09:15:25 開單:謝坤益/主治:謝坤益醫師
+                                                                         醫師簽章 :______________
+                                               列印醫師 : 侯甚光         共  1  頁  第   1   頁

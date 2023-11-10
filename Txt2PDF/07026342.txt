@@ -1,0 +1,164 @@
+                                   急 診 病 歷 (病 程 )
+         身分證 A130779206   出生民國 90年 06月 06日  性別男     到院104/06/26 14:13:00
+         字  號              日期                                日期
+         病歷號  07026342    姓名王以敬               年齡14歲 01個月 
+          
+           Subject【syncope episode this 1：30PM
+           【syncope episode this 1：30PM
+           Object【syncope episode this 1：30PM
+           【fever since this morning
+           【chills
+           【syncope episode this 1：30PM(學校),(before this episode
+           【had nausea, dizziness, no vomiting) , 校護 found SpO2 83%,
+           【==>O2 use, SpO2>95%
+           【fever since this morning
+           【chills, general muscle soreness
+           【abdominal pain
+           【cough, rhinorrhea, no throat pain, no SOB, no chest pain
+           【contact history： influenza B
+          
+         ◎診斷碼      診斷名稱
+           780.2       SYNCOPE AND COLLAPSE
+           780.6       FEVER
+          
+         ◎檢驗代碼    檢驗名稱                                檢體   數量  健
+           F08011C     CBC I (8項)                             血液   1     Y     
+           F08013C     WBC DC (白血球分類計數)血液             血液   1     Y     
+           F12015A     CRP                                     血液   1     Y     
+           F09041B     Blood gas血液                           血液   1     Y     
+           說明:vein gas
+           F13016B     Blood culture  (第一套)                 血液   1     Y     
+           F09002B     BUN                                     血液   1     Y     
+           F09015B     Creatinine                              血液   1     Y     
+           F09025C     GOT (AST)                               血液   1     Y     
+           F09026C     GPT (ALT)                               血液   1     Y     
+           F09021C     Na                                      血液   1     Y     
+           F09022C     K                                       血液   1     Y     
+           F09011B     Ca                                      血液   1     Y     
+           F09046B     Mg                                      血液   1     Y     
+           F09023C     Cl                                      血液   1     Y     
+           F09005C     Glucose 2 (Blood)                       血液   1     Y     
+           F12020A     Mycoplasma  Ab                          血液   1     Y     
+           F14067B     Influenza A+B鼻腔拭子(自費)             鼻腔拭子1     N     
+           F09071B     CKMB                                    血液   1     Y     
+           F09061Z     Troponin-T(hs)                          血液   1     Y     
+           F09032B     CPK                                     血液   1     Y     
+         ◎放射代碼    放射名稱                                       數量  健
+           F32001C     Chest PA/AP                                    1     Y
+         ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+                                               列印醫師 : 侯甚光         共  4  頁  第   1   頁
+                                   急 診 病 歷 (病 程 )
+         身分證 A130779206   出生民國 90年 06月 06日  性別男     到院104/06/26 14:13:00
+         字  號              日期                                日期
+         病歷號  07026342    姓名王以敬               年齡14歲 01個月 
+           Taita no.1 500ml                        1    Bot   1  IV   1    Y  STAT                
+           說明:run 60ml/hr
+         ◎處置代碼    處置名稱                                數量   健
+           F180010     心電圖（EKG）                           1     Y
+         ________________________________________________________________________________
+         時間:104/06/26 14:35:32  開單:王靜韻/主治:急診科醫師
+          
+           Object【CXR： bil. infiltration, no cardiomegaly
+           【EKG：SR
+         ________________________________________________________________________________
+         時間:104/06/26 15:03:28  開單:王靜韻/主治:急診科醫師
+          
+         ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+           Paramol 500mg ◎                        1    Tab   1  PO   1    Y  STAT                
+         ________________________________________________________________________________
+         時間:104/06/26 15:22:55  開單:王靜韻/主治:急診科醫師
+          
+           Subject【clear con's
+           【appetite：ok
+           Object【lab data in normal limit
+           Plan【MBD
+           【on soft diet
+           【suggest OPD f/u
+           【Health education(包括腸病毒,流感,腺病毒,腸胃炎衛教)
+           【(已告知病患回去有機會繼續發燒)
+           【If fever persist or poor appetite, poor activity, decrease urine out put, con'
+           s change
+           【noted back to hospital
+           【加強洗手,注意衛生
+           【多補充水分
+          
+         ◎診斷碼      診斷名稱
+           462         ACUTE PHARYNGITIS
+          
+         ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+           Medicon-A                               1    Cap   3  PO   9    Y  TID                 
+           Allegra 60mg                            1    Tab   3  PO   6    Y  BID                 
+           Paramol 500mg ◎                        1    Tab   3  PO   12   Y  Q6H PRN             
+           說明:if BT>38.5'C
+         ◎處置代碼    處置名稱                                數量   健
+           FSN00030    MBD                                     1     N
+         ----------------------------------------
+         ※離院診斷碼  診斷名稱
+           780.2       SYNCOPE AND COLLAPSE
+                                               列印醫師 : 侯甚光         共  4  頁  第   2   頁
+                                   急 診 病 歷 (病 程 )
+         身分證 A130779206   出生民國 90年 06月 06日  性別男     到院104/06/26 14:13:00
+         字  號              日期                                日期
+         病歷號  07026342    姓名王以敬               年齡14歲 01個月 
+           462         ACUTE PHARYNGITIS
+           780.6       FEVER
+         ※離院方式 :無手術
+         ----------------------------------------
+         --------------------------------------------------------------------------------
+         ※時間:104/06/26 16:15:17 開單:王靜韻/主治:急診科醫師醫師
+         ◎檢驗報告
+           組別      項目                            定性           定量           結果
+           -----------------------------------------------------------------------------
+           血液      %BASO [0-1.5 %]                 0.2 %          0.2 %          
+           血液      %EOS [0-7 %]                    0.5 %          0.5 %          
+           血液      MPV [7.2-11.1 fL]               7.89 fL        7.89 fL        
+           血液      HCT [37-52 %]                   41.0 %         41.0 %         
+           血液      MCV [80-99 fL]                  85.0 fL        85.0 fL        
+           血液      MCHC [31-37 g/dL]               33.8 g/dL      33.8 g/dL      
+           血液      %NEUT [40-74 %]                 77.3 %         77.3 %         H
+           血液      WBC [4.0-11.0 x10.e3/uL]        5.57 10^3/uL   5.57 10^3/uL   
+           血液      MCH [26-34 pg]                  28.7 pg        28.7 pg        
+           血液      %LYM [19-48 %]                  9.2 %          9.2 %          L
+           血液      PDW                             16.9 fL        16.9 fL        
+           血液      RDW-SD                          39.8 fL        39.8 fL        
+           血液      HGB [12-18 g/dL]                13.9 g/dL      13.9 g/dL      
+           血液      PCT                             0.12 %         0.12 %         L
+           血液      RBC [4.2-6.1 x10.e6/uL]         4.82 10^6/uL   4.82 10^6/uL   
+           血液      RDW [11.5-14.5 %]               13.5 %         13.5 %         
+           血液      PLT [130-400 x10.e3/uL]         156 x10^3 /uL  156 x10^3 /uL  
+           血液      %MONO [2.0-10.0 %]              12.8 %         12.8 %         H
+           血液氣體  BEecf                           0.4 mmol/L     0.4 mmol/L     
+           血液氣體  tCO2(P)c                        24.0 mmol/L    24.0 mmol/L    
+           血液氣體  pCO2 [35-45 mmHg]               53.7 mmHg      53.7 mmHg      H
+           血液氣體  ABEc                            -2.2 mmol/L    -2.2 mmol/L    
+           血液氣體  pO2 [75-100 mmHg]               26.8 mmHg      26.8 mmHg      L
+           血液氣體  SBEc                            -0.5 mmol/L    -0.5 mmol/L    
+           血液氣體  sO2 [> 95 %]                    42.7 %         42.7 %         L
+           血液氣體  cHCO￣3st                       23.5 mmol/L    23.5 mmol/L    
+           血液氣體  Blood gas pH [7.350-7.450]      7.313          7.313          L
+           血液氣體  HCO3 [20-26 mmol/L]             26.7 mmol/L    26.7 mmol/L    H
+           急/等件生化Mg (血液) [1.8-2.7 mg/dl]       1.8 mg/dl      1.8 mg/dl      
+           急/等件生化Influenza A Ag                  Negative       Negative       
+           急/等件生化CPK (血液) [15-100 IU/L]        127 IU/L       127 IU/L       
+           急/等件生化GOT(血液) [0-40 IU/L]           34 U/L         34 U/L         
+           急/等件生化eGFR                            164 mL/min/1.73M2164 mL/min/1.73M2
+           急/等件生化Glucose(血液)2[80-140 mg/dl]    89 mg/dl       89 mg/dl       
+           急/等件生化Influenza A+B Ag                Influenza A+B AgInfluenza A+B Ag
+                                               列印醫師 : 侯甚光         共  4  頁  第   3   頁
+                                   急 診 病 歷 (病 程 )
+         身分證 A130779206   出生民國 90年 06月 06日  性別男     到院104/06/26 14:13:00
+         字  號              日期                                日期
+         病歷號  07026342    姓名王以敬               年齡14歲 01個月 
+           急/等件生化Creatinine(血)[0.5-1.3 mg/dl]   0.7 mg/dl      0.7 mg/dl      
+           急/等件生化BUN (血液) [7-18 mg/dl]         14.0 mg/dl     14.0 mg/dl     
+           急/等件生化Troponin-T[0.0-0.03 ng/ml]      <0.003 ng/ml   <0.003 ng/ml   
+           急/等件生化K (血液)[3.5-5.3 mEq/L]         3.8 mEq/L      3.8 mEq/L      
+           急/等件生化Cl (血液)[98-108 meq/L]         101 mEq/L      101 mEq/L      
+           急/等件生化CRP (血液)[0.0-0.8 mg/dl]       0.94 mg/dl     0.94 mg/dl     H
+           急/等件生化CKMB (血液)[0-17 U/L]           15.6 U/L       15.6 U/L       
+           急/等件生化Influenza B Ag                  Negative       Negative       
+           急/等件生化Ca (血液)[8.4-10.2 mg/dl]       9.0 mg/dl      9.0 mg/dl      
+           急/等件生化GPT (血液) [0-40 IU/L]          23 U/L         23 U/L         
+           急/等件生化Na (血液)[135-148 mEq/L]        135 mEq/L      135 mEq/L      L
+                                                                         醫師簽章 :______________
+                                               列印醫師 : 侯甚光         共  4  頁  第   4   頁

@@ -1,0 +1,263 @@
+                                   急 診 病 歷 
+    身分證 F232307330   出生民國 100年 05月 10日 性別女     到院102/10/30 01:06:00
+    字  號              日期                                日期
+    病歷號  11084048    姓名徐芊云               年齡 04歲 03個月
+    --------------------------------------------------------------------------------
+    病歷首頁1   時間:103/04/17 17:59:00   醫師:林樹基
+    --------------------------------------------------------------------------------
+    ◎Chief Complaint:
+            chest pain, vomiting,
+    ◎Present Illness:
+        Radiation：
+        chin,
+        elbow,
+    ◎Past History:
+            peptic ulcer, depression,
+    ◎Allergy History:
+            不明藥物,
+    ◎Medication History:
+            bronchodilator,
+    ◎Physical Examination:
+        *Vital Signs：
+            BT：36.5℃,RR：101/98min,HR：/min,SpO2： 100%,BP：/mmHg,
+        *General appearance：
+            anxiety,
+        *Skin ：
+            pink, Skin turgor： normal,
+        *Eye：
+            normal, Pupil size ：  / , light reflex ( / ), eye movement ： 
+            nystagmus,
+        *Lip：
+            pink, fissure,
+        *Nose ：
+            mucosa： congestion,
+        *Anus：
+            normal, Anus tone： normal, NE： intact,
+    ◎Trauma Sheet:
+    ◎Impression :
+            535.50_UNSPECIFIED GASTRITIS AND GASTRODUODENITIS, WITHOUT MENTION OF 
+            HEMORRHAGE
+      test
+    ◎Plan(s):
+            test
+    --------------------------------------------------------------------------------
+    病歷首頁2   時間:103/04/17 18:00:36   醫師:林樹基
+    --------------------------------------------------------------------------------
+    ◎Chief Complaint:
+            chest pain,2 vomiting,
+    ◎Present Illness:
+        Radiation：
+                                          列印醫師 : 林樹基          共  6  頁  第  1   頁
+                                   急 診 病 歷 
+    身分證 F232307330   出生民國 100年 05月 10日 性別女     到院102/10/30 01:06:00
+    字  號              日期                                日期
+    病歷號  11084048    姓名徐芊云               年齡 04歲 03個月
+        chin,
+        elbow,
+    ◎Past History:
+            peptic ulcer, depression,
+    ◎Allergy History:
+            不明藥物,
+    ◎Medication History:
+            bronchodilator,
+    ◎Physical Examination:
+        *Vital Signs：
+            BT：36.5℃,RR：101/98min,HR：/min,SpO2： 100%,BP：/mmHg,
+        *General appearance：
+            anxiety,
+        *Skin ：
+            pink, Skin turgor： normal,
+        *Eye：
+            normal, Pupil size ：  / , light reflex ( / ), eye movement ： 
+            nystagmus,
+        *Lip：
+            pink, fissure,
+        *Nose ：
+            mucosa： congestion,
+        *Anus：
+            normal, Anus tone： normal, NE： intact,
+    ◎Trauma Sheet:
+    ◎Impression :
+            535.50_UNSPECIFIED GASTRITIS AND GASTRODUODENITIS, WITHOUT MENTION OF 
+            HEMORRHAGE
+      test
+    ◎Plan(s):
+            test
+    --------------------------------------------------------------------------------
+    病歷首頁3   時間:103/04/17 18:18:02   醫師:林樹基
+    --------------------------------------------------------------------------------
+    ◎Chief Complaint:
+            test 3
+    ◎Present Illness:
+        test 3
+    ◎Past History:
+            atest 3
+    ◎Allergy History:
+            5
+    ◎Medication History:
+            5
+    ◎Physical Examination:
+                                          列印醫師 : 林樹基          共  6  頁  第  2   頁
+                                   急 診 病 歷 
+    身分證 F232307330   出生民國 100年 05月 10日 性別女     到院102/10/30 01:06:00
+    字  號              日期                                日期
+    病歷號  11084048    姓名徐芊云               年齡 04歲 03個月
+            5
+    ◎Trauma Sheet:
+    ◎Impression :
+            205_MYELOID LEUKEMIA
+      2
+    ◎Plan(s):
+            2
+    --------------------------------------------------------------------------------
+    病歷首頁4   時間:104/01/09 15:31:29   醫師:林樹基
+    --------------------------------------------------------------------------------
+    ◎Chief Complaint:
+            test 4
+    ◎Present Illness:
+        test4
+    ◎Past History:
+            atest 4
+    ◎Allergy History:
+            4
+    ◎Medication History:
+            4
+    ◎Physical Examination:
+            4
+    ◎Trauma Sheet:
+    ◎Impression :
+            205_MYELOID LEUKEMIA
+      4
+    ◎Plan(s):
+            4
+    --------------------------------------------------------------------------------
+        急診病程_________________________________________________________________
+    --------------------------------------------------------------------------------
+     
+      Subject【vomiting
+      【cough for many days
+      【severe cough
+     
+    ◎診斷碼      診斷名稱
+      466.0       ACUTE BRONCHITIS
+     
+    ◎放射代碼    放射名稱                                       數量  健
+      F32001C     Chest PA                                       1     Y
+    ________________________________________________________________________________
+    時間:102/10/30 01:09:25  開單:楊耀舜/主治:楊耀舜
+     
+      Subject【severe cough
+                                          列印醫師 : 林樹基          共  6  頁  第  3   頁
+                                   急 診 病 歷 
+    身分證 F232307330   出生民國 100年 05月 10日 性別女     到院102/10/30 01:06:00
+    字  號              日期                                日期
+    病歷號  11084048    姓名徐芊云               年齡 04歲 03個月
+      【vomiting
+      【abdomen pain
+      Plan【X-Rays,
+      【Medical advice information,
+     
+    ◎診斷碼      診斷名稱
+      041.81      MYCOPLASMA INFECTIONS OF UNSPECIFIED SITE
+     
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Atrovent UDV 0.5mg/2ml/AMP              1    Amp   1  INHL 1    Y  STAT                
+      Zithromax(水) 40mg/ml 15ml/bot          3    ml    3  PO   1    Y  QD                  
+      Secorine(水) syrup 120ml/bot            3    ml    3  PO   1    Y  QID PC              
+      Cypromin 0.4mg/ml 60ml/bot              3    ml    3  PO   1    Y  TID                 
+    ________________________________________________________________________________
+    時間:102/10/30 01:18:25  開單:林樹基/主治:楊耀舜
+     
+      Subject【vomiting
+      【cough for many days
+      【severe cough
+      【severe cough
+      【vomiting
+      【abdomen pain
+      Plan【X-Rays,
+      【Medical advice information,
+    ________________________________________________________________________________
+    時間:102/11/04 15:04:57  開單:林樹基/主治:楊耀舜
+     
+      Object【sfdg231545
+      hsfgsadsdafareitndlepekgfjgjalskdjgldladsfajdkajksdajksdfasdjfjsdfjasdjfjfjg
+      【jgjeieekdjfruirla.apdlfigkr,dlfohbjfm`sdfa3jads312345567890-=!@#$%^＆*()_+~`\|=
+      -/?.>,
+      【<;：'”[]}{{}
+     
+    ◎文字醫囑
+      102年11月04日15時57分54秒 啟動AMI小組                                 
+    ________________________________________________________________________________
+    時間:102/11/04 16:27:35  開單:林樹基/主治:楊耀舜
+     
+    ◎診斷碼      診斷名稱
+      438         LATE EFFECTS OF CEREBROVASCULAR DISEASE
+    ________________________________________________________________________________
+    時間:103/04/02 12:19:09  開單:林樹基/主治:楊耀舜
+     
+    ◎診斷碼      診斷名稱
+      436         ACUTE BUT ILL-DEFINED CEREBROVASCULAR DISEASE
+                                          列印醫師 : 林樹基          共  6  頁  第  4   頁
+                                   急 診 病 歷 
+    身分證 F232307330   出生民國 100年 05月 10日 性別女     到院102/10/30 01:06:00
+    字  號              日期                                日期
+    病歷號  11084048    姓名徐芊云               年齡 04歲 03個月
+    ________________________________________________________________________________
+    時間:103/04/02 12:21:01  開單:林樹基/主治:楊耀舜
+     
+    ◎文字醫囑
+      104年03月02日15時24分48秒 啟動AMI小組                                 
+      104年03月02日15時31分38秒 啟動CVA小組                                 
+      104年03月02日15時33分48秒 啟動Trauma小組                              
+    ________________________________________________________________________________
+    時間:104/03/02 15:34:16  開單:林樹基/主治:楊耀舜
+     
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Abilify(見檢單急採) 10 mg/tab           1    Tab   1  PO   1    Y  QD                  
+    ________________________________________________________________________________
+    時間:104/03/02 21:41:15  開單:林樹基/主治:楊耀舜
+    ________________________________________________________________________________
+    時間:104/04/02 14:53:14  開單:林樹基/主治:楊耀舜
+    ________________________________________________________________________________
+    時間:104/04/02 15:05:46  開單:林樹基/主治:楊耀舜
+     
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      EZ-HD                                   1    Bot   1  PO   1    Y  ASORDER             
+      Ativan (跌) 0.5 mg/tab                  1    Tab   1  PO   1    Y  STAT                
+      Acetazolamide 250 mg/tab                1    Tab   1  PO   4    Y  QID                 
+    ◎處置代碼    處置名稱                                數量   健
+      F47013C     一般導尿Urinal catheterlization         1     Y
+    ________________________________________________________________________________
+    時間:104/08/05 17:22:03  開單:林樹基/主治:楊耀舜
+     
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      Cabudan 25 mg/tab (跌)                  1    Tab   1  PO   3    Y  TID AC              
+      Acetazolamide 250 mg/tab                1    Tab   1  PO   1    Y  STAT                
+    ________________________________________________________________________________
+    時間:104/08/13 16:30:08  開單:林樹基/主治:楊耀舜
+     
+    ◎處置代碼    處置名稱                                數量   健
+      F39004C     大量液體點滴注射                        1     Y
+      F18001CO    ECG routine (心電圖)                    1     Y
+    ________________________________________________________________________________
+    時間:104/08/13 17:08:54  開單:林樹基/主治:楊耀舜
+     
+    ◎藥品名稱                                劑量 單位  天 途徑 總數 健頻率  
+      EZ-HD                                   1    Bot   1  PO   1    Y  ASORDER             
+      3TC 150MG/TAB                           1    Tab   1  PO   1    Y  STAT                
+      (限急診及心內使用)Brilinta(見檢單急採)  1    Tab   1  PO   1    Y  STAT                
+      Film-Coated 90mg/tab                    
+                                          列印醫師 : 林樹基          共  6  頁  第  5   頁
+                                   急 診 病 歷 
+    身分證 F232307330   出生民國 100年 05月 10日 性別女     到院102/10/30 01:06:00
+    字  號              日期                                日期
+    病歷號  11084048    姓名徐芊云               年齡 04歲 03個月
+    ----------------------------------------
+    ※離院診斷碼  診斷名稱
+      466.0       ACUTE BRONCHITIS
+    ※離院方式 :住院
+    ----------------------------------------
+    --------------------------------------------------------------------------------
+    ※時間:104/08/13 18:35:25 開單:林樹基/主治:楊耀舜醫師
+                                                                    醫師簽章 :______________
+                                          列印醫師 : 林樹基          共  6  頁  第  6   頁

@@ -1,0 +1,9 @@
+select fee_no,aa from ( 
+select a.*,
+decode(nvl((select b.single_no from seen_reportdata b where a.fee_no=b.fee_no(+) and a.sp_no=b.single_no(+)),'N'),'N','Y') as aa 
+from lab_list a 
+where not exists(select * from seen_reportdata d where a.fee_no=d.fee_no and trim(a.sp_no)=trim(d.single_no)) 
+and nvl(trim(a.sp_no),'0')<>'0' 
+and  a.Fee_no in (select a.fee_no from reg_basic a join opd_basic b on a.opd_date = b.opd_date and a.fee_no = b.fee_no  join epd_his on a.fee_no = epd_his.fee_no and epd_his.end_date = '9999999' and epd_his.EPD_STATUS='0'  where  a.OPD_KIND='E' and a.cncl_flag='N')
+)
+where aa='N'
